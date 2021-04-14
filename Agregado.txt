@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es nuevo por Fernando.
+=======
+Esto es nuevo por Fran.
+>>>>>>> 32c93d9a32416b3a300fbb88615494313291170e
